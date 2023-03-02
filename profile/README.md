@@ -24,6 +24,7 @@
 [Date OCR and Stamp Detection](http://79.132.207.77:3020)
 
 ### APIs
+[Google Translate](http://79.132.207.77:3024/docs)
 
 [CarPlate OCR](http://79.132.207.77:3027)
 
