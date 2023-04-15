@@ -33,3 +33,5 @@
 [Car Damage Detection](http://79.132.207.77:3026)
 
 [ISACO SCRAPER API](http://79.132.207.77:8000)
+
+[Semantic Text Search](http://79.132.207.77:3025)
