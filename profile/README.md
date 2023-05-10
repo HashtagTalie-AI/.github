@@ -23,6 +23,8 @@
 
 [Date OCR and Stamp Detection](http://79.132.207.77:3020)
 
+[Disease Matching Based on Symptoms](http://79.132.207.77:5010/)
+
 ### APIs
 [Google Translate](http://79.132.207.77:3024/docs)
 
@@ -35,3 +37,5 @@
 [ISACO SCRAPER API](http://79.132.207.77:8000)
 
 [Semantic Text Search](http://79.132.207.77:3025)
+
+[Disease Matching Based on Symptoms](http://79.132.207.77:5009/)
