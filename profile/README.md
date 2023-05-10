@@ -25,6 +25,8 @@
 
 [Disease Matching Based on Symptoms](http://79.132.207.77:5010/)
 
+[Chest X-ray Pneumonia Image Classification](http://79.132.207.77:5012)
+
 ### APIs
 [Google Translate](http://79.132.207.77:3024/docs)
 
@@ -39,3 +41,5 @@
 [Semantic Text Search](http://79.132.207.77:3025)
 
 [Disease Matching Based on Symptoms](http://79.132.207.77:5009/)
+
+[Chest X-ray Pneumonia Image Classification](http://79.132.207.77:5011)
