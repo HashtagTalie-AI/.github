@@ -1,6 +1,8 @@
 # HashtagTalie-AI Projects
 
-### Demos
+## Demo
+
+- Car-related:
 
 [CarPlate Integrated App](http://79.132.207.77:5004)
 
@@ -10,6 +12,7 @@
 
 [Car Damage Detection (Yolo5)](http://79.132.207.77:5001/demo)
 
+- Health-related:
 
 [Tooth Disease Detector](http://79.132.207.77:3021)
 
@@ -19,16 +22,20 @@
 
 [Health Insurance Chatbot](http://79.132.207.77:3022/)
 
-[Labeling APP for Doctors](http://79.132.207.77:5000)
-
 [Date OCR and Stamp Detection](http://79.132.207.77:3020)
 
 [Disease Matching Based on Symptoms](http://79.132.207.77:5010/)
 
 [Chest X-ray Pneumonia Image Classification](http://79.132.207.77:5012)
 
-### APIs
-[Google Translate](http://79.132.207.77:3024/docs)
+- Other:
+
+[Labeling APP for Doctors](http://79.132.207.77:5000)
+
+
+## API
+
+- Car-related:
 
 [CarPlate OCR](http://79.132.207.77:3027)
 
@@ -36,10 +43,16 @@
 
 [Car Damage Detection](http://79.132.207.77:3026)
 
-[ISACO SCRAPER API](http://79.132.207.77:8000)
+- Health-related:
 
 [Semantic Text Search](http://79.132.207.77:3025)
 
 [Disease Matching Based on Symptoms](http://79.132.207.77:5009/)
 
 [Chest X-ray Pneumonia Image Classification](http://79.132.207.77:5011)
+
+- Other:
+
+[ISACO SCRAPER API](http://79.132.207.77:8000)
+
+[Google Translate](http://79.132.207.77:3024/docs)
